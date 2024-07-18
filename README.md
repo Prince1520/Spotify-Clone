@@ -1,8 +1,10 @@
 <h1>Spotify Clone Project</h1>
 
-Description
 
-<p>This project is a clone of the popular music streaming service Spotify. It aims to replicate some of the core functionalities and user interface of Spotify using CSS only</p>
+<p>As part of learning to code,I completed a project that involved creating a basic Spotify clone using HTML, CSS, and JavaScript. This project was designed to showcase my skills in front-end web development.It is a responsive and user-friendly web application that allows users to play music.I used HTML and CSS to design and style the interface, and I implemented JavaScript to handle user input and interaction such as basic playback controls -play, pause, and next.I also gained experience working with version control tools such as Git and GitHub</p>
+
+<h3>Tech-Stack-<h3>
+  <img width="204" alt="Screenshot 2024-07-18 at 11 45 48 AM" src="https://github.com/user-attachments/assets/5667faa9-011f-483c-826a-5acf684d355a">
 
 <h3>Features</h3>
 
