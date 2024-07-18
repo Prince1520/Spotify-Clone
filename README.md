@@ -12,3 +12,4 @@ Search: Search for artists, albums, and tracks.
 Playlists: Create, edit, delete playlists.
 User Profile: View and edit user profile details.
 Responsive Design: Ensures usability across various devices.
+<h1>Prince</h1>
