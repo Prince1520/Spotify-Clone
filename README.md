@@ -13,7 +13,10 @@ Playlists: Create, edit, delete playlists.
 User Profile: View and edit user profile details.
 Responsive Design: Ensures usability across various devices.
 
-<img width="710" alt="Screenshot 2024-07-18 at 11 19 51 AM" src="https://github.com/user-attachments/assets/66a0e629-a9e4-42bb-92d5-9a74fee9fa5a">
+<h1>Screenshots</h1>
+
+<img width="1470" alt="Screenshot 2024-07-18 at 11 27 33 AM" src="https://github.com/user-attachments/assets/fca32a60-0b63-4391-9bfb-718d698e9b59">
+
 
 
 
