@@ -19,6 +19,7 @@ Responsive Design: Ensures usability across various devices.
 
 
 
+<p>This template show you recently played song from you and the latest trending now near you albums</p>
 
 <img width="1109" alt="Screenshot 2024-07-18 at 11 24 46 AM" src="https://github.com/user-attachments/assets/8c75d4d4-a738-412f-ab60-5c1872f8ace0">
 
